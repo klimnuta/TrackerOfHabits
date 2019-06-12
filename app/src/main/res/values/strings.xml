@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Трекер привычек</string>
+    <string name="nohabit">Вы еще не привыкаете к этому.</string>
+    <string name="closeApp">Закрыть приложение</string>
+    <string name="newHabit">Новая привычка</string>
+    <string name="Done">Сделано</string>
+    <string name="notDone">Не сделано</string>
+    <string name="delete">Удалить?</string>
+    <string name="yesDelete">Да, удалить</string>
+    <string name="new_s">Новая привычка</string>
+    <string name="water">Выпить воды</string>
+    <string name="sport">Сделать зарядку</string>
+    <string name="clock">Завести будильник</string>
+    <string name="teeth">Почистить зубы</string>
+</resources>

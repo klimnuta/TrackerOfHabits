@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrackerOfHabits</string>
+    <string name="nohabit">You are not used to it yet.</string>
+    <string name="closeApp">Close app</string>
+    <string name="newHabit">New habit</string>
+    <string name="Done">Done</string>
+    <string name="notDone">Not done</string>
+    <string name="delete">Delete?</string>
+    <string name="yesDelete">Yes of course, delete it</string>
+    <string name="new_s">New habit</string>
+    <string name="water">Drink water</string>
+    <string name="sport">Do exercises</string>
+    <string name="clock">Set up alarm</string>
+    <string name="teeth">Brush teeth</string>
+</resources>
